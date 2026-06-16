@@ -19,19 +19,6 @@ Sua missão é adicionar 4 funções, uma de cada vez.
 
 ---
 
-## ⏱️ Cronograma sugerido
-
-| Tempo | O que fazer |
-|-------|-------------|
-| 0–5 min | Criar o repo e commit inicial |
-| 5–10 min | Função 2 + commit |
-| 10–15 min | Função 3 + commit |
-| 15–20 min | Função 4 + commit |
-| 20–25 min | Função 5 + commit |
-| 25–30 min | Push final + verificar no GitHub |
-
----
-
 ## 🚀 PASSO 1 — Criar o repositório 
 
 1. Abra o **GitHub Desktop**
