@@ -32,7 +32,7 @@ Sua missão é adicionar 4 funções, uma de cada vez.
 
 ---
 
-## 🚀 PASSO 1 — Criar o repositório (5 min)
+## 🚀 PASSO 1 — Criar o repositório 
 
 1. Abra o **GitHub Desktop**
 2. `File` → `New Repository`
@@ -135,7 +135,7 @@ feat: adiciona funcao contar_pendentes
 
 ---
 
-## 📤 PASSO 3 — Push final (últimos 5 min)
+## 📤 PASSO 3 — Push final 
 
 1. No GitHub Desktop, clique em **Push origin**
 2. Abra o GitHub no navegador
